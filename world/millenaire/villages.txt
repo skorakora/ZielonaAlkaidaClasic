@@ -1,0 +1,15 @@
+Seibal;410/82/-427;military;mayan;
+Grainville-le-lac;5/75/1739;militaire;norman;
+Ota;102/72/2604;nogyo;japanese;
+Lissos;715/65/718;emporikos;byzantines;
+Kaminal Juyu;-1085/75/1658;religious;mayan;
+Fontenay-l'océan;-1746/68/1562;agricole;norman;
+Gardarwa Mahal;-501/81/2584;indian_palace;hindi;
+Gardarwa Gaanv;-591/67/2686;indian_agricole_hamlet;hindi;
+Gardarwa Qila;-611/82/2503;indian_fort_hamlet;hindi;
+Coba;-1319/79/2376;agriculture;mayan;
+Karsara;-1599/70/2950;indian_agricole;hindi;
+Saint-Georges-les-mines;-400/77/-170;hameau_artisans;norman;
+Saint-Georges-la-fôret;-273/83/-118;grosbourg;norman;
+Saint-Georges-l'abbaye;-171/80/-29;hameau_abbatiale;norman;
+Saint-Georges-les-pâtures;-273/68/38;hameau_agricole;norman;

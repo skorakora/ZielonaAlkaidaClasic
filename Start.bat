@@ -1,0 +1,2 @@
+"C:\Program Files\Java\jre1.8.0_431\bin\java.exe" -Xmx8G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -jar server.jar nogui
+PAUSE

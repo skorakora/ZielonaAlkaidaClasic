@@ -1,0 +1,4 @@
+quest:normanrasgullas;step:0;startTime:585000;currentStepStartTime:585000;villager:startvillager,8296726322812578517,5/75/1739;villager:child,8803978579048762042,5/75/1739
+quest:lumbermancider;step:0;startTime:588000;currentStepStartTime:588000;villager:startvillager,1624392607377774006,5/75/1739
+quest:lumbermancider;step:0;startTime:605000;currentStepStartTime:605000;villager:startvillager,502564196325531375,5/75/1739
+quest:losttapestry;step:0;startTime:108000;currentStepStartTime:108000;villager:startvillager,1928618153145841676,5/75/1739;villager:lady,2040434213563111890,5/75/1739

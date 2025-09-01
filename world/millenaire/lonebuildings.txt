@@ -1,0 +1,15 @@
+Mine abandonnée;282/79/-104;abandonedmine;norman;
+Bûcheron solitaire;-85/76/-645;lonelumberman;norman;
+Adivasi ka Ghar;536/69/-982;adivasifarm;hindi;
+Apomonomeno Boske Probaton;0/69/1397;lonesheepfarm;byzantines;
+Tour de l'Achimiste;171/80/1739;alchemisttower;norman;
+Iwamuro no Hito;-53/64/2305;bandit_cave;japanese;
+Apomonomeno Boske Probaton;469/69/1026;lonesheepfarm;byzantines;
+Archaio Nao;-22/73/3181;ancienttemple;byzantines;
+Lost Mayan Home;-778/71/1570;lonemayanruin;mayan;
+Château félon;-1415/67/1623;feloncastle;norman;
+Lost Mayan Corn Farm;-911/76/2461;lonemayancornfarm;mayan;
+Lost Stone Mine;-1580/72/2544;lonemayanmining;mayan;
+Apomonomeno Boske Probaton;-1446/92/3247;lonesheepfarm;byzantines;
+Mine abandonnée;-1526/72/4506;abandonedmine;norman;
+Moulin abandonné;887/64/204;abandonedmill;norman;

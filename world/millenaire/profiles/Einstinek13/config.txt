@@ -1,0 +1,14 @@
+culture_reputation=japanese,2599
+culture_reputation=norman,4096
+culture_language=japanese,3723
+culture_language=norman,19363
+village_reputations=171/80/1739,512
+village_reputations=102/72/2604,26123
+village_reputations=5/75/1739,153322
+village_diplomacy=-1319/79/2376,5
+village_diplomacy=-501/81/2584,5
+village_diplomacy=-1746/68/1562,5
+village_diplomacy=715/65/718,5
+village_diplomacy=102/72/2604,5
+village_diplomacy=-611/82/2503,5
+village_diplomacy=5/75/1739,5

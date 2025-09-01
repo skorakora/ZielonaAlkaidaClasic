@@ -1,0 +1,6 @@
+quest:normanrasgullas;step:0;startTime:5208000;currentStepStartTime:5208000;villager:startvillager,7866330322758115845,5/75/1739;villager:child,319240238147211869,5/75/1739
+quest:lumbermancider;step:0;startTime:5213000;currentStepStartTime:5213000;villager:startvillager,1624392607377774006,5/75/1739
+quest:lumbermancider;step:0;startTime:5220000;currentStepStartTime:5220000;villager:startvillager,502564196325531375,5/75/1739
+quest:alchemist_7_boreholetnt;step:0;startTime:5232000;currentStepStartTime:5232000;villager:alchemist,6292485004638184267,171/80/1739;villager:assistant,1746527632722269118,171/80/1739
+quest:spiders;step:0;startTime:5244000;currentStepStartTime:5244000;villager:startvillager,7760700591317886869,5/75/1739;villager:wife,4417206798563668917,5/75/1739;villager:miner,541224019664484933,5/75/1739
+quest:losttapestry;step:0;startTime:1427000;currentStepStartTime:1427000;villager:startvillager,471550245126097097,5/75/1739;villager:lady,2040434213563111890,5/75/1739

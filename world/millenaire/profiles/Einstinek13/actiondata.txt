@@ -1,0 +1,3 @@
+alchemistqueststatus:6
+action_borehole_max:24
+action_borehole_pos:-10/5/1651
